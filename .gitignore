@@ -1,0 +1,38 @@
+# Claude Code local settings
+.claude/settings.local.json
+
+# Dependencies
+node_modules/
+
+# Hardhat cache and artifacts
+cache/
+artifacts/
+
+# Environment variables
+.env
+.env.local
+
+# Coverage reports
+coverage/
+coverage.json
+
+# Gas reports
+gas-report.json
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
